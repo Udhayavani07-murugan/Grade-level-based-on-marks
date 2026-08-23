@@ -10,4 +10,4 @@ elif a>=60 and a<=69:
 elif a>=50 and a<=59:
           print("e grade")
 else:
-          Print( "re-exam")
+          print("re-exam")
